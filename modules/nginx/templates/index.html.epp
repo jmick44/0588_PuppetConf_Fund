@@ -1,0 +1,3 @@
+Puppet is awesome!!!!! 
+The fqdn of this node is: <%= $fqdn %>
+The ipaddress is: <%= $ipaddress %>
